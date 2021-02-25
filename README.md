@@ -1,4 +1,4 @@
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## https://start-wars-nu.vercel.app/
 
 # BOAS VINDAS AO REPOSITÓRIO DO PROJETO STARWARS DATATABLE FILTERS EM CONTEXT API E HOOKS!
 
